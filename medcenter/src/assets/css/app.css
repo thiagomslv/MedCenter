@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+}
+
+html, body {
+    margin: 0px !important;
+    padding: 0px !important;
+}
